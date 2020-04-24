@@ -1,4 +1,4 @@
-# Basic_neural_network
+# Perceptron
 Basic prediction neural network. Good for understanding basic concepts.
 
 ### Things learned:
